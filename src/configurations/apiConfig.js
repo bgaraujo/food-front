@@ -1,0 +1,1 @@
+export const STORE_API = "http://localhost:8081/";
